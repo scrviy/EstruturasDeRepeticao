@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJ3M5Jm/kZruX7ajv887tyd5xq1WpvmDf25p4pnAowtrtWgwWPYylQrl0QMr2f20vDVzhriCJ5OanlGHxphJ5A==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/Condicionais/Condicionais.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
